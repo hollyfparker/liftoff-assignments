@@ -44,4 +44,3 @@ Include what you will need to learn here
 ### Project Tracker
 https://trello.com/b/XWfm2TS1/liftoff-2019
 
-

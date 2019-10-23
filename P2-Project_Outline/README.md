@@ -30,7 +30,7 @@ Bonus features (if time allows)
   Gear list (include product links?) 
 
 ### Technologies
-Include Technologies here
+Include Technologies here  
 
 Java
 HTML templates

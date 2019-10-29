@@ -14,6 +14,8 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
+https://trello.com/b/XWfm2TS1/liftoff-2019
+
 ### Project Repo Link
 
 Include a link to your project on GitHub.

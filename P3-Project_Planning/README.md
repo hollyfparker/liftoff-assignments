@@ -18,5 +18,6 @@ https://trello.com/b/XWfm2TS1/liftoff-2019
 
 ### Project Repo Link
 
-https://github.com/trailnamemamabear/trail-list.git
+https://github.com/hollyfparker/trail-list.git
+
 

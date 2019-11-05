@@ -20,3 +20,6 @@ https://www.linkedin.com/in/holly-parker-5886b393/
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+
+I will present my resume to my mentor. 
+My headline statement and project experience need to be revised. 
